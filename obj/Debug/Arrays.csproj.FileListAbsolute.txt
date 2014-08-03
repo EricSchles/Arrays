@@ -1,0 +1,5 @@
+c:\users\eric\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\eric\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\eric\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\eric\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
